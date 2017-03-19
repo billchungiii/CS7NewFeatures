@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B3E35055-B6D8-4BA5-AF43-0084A9CDE4CC}</ProjectGuid>
+    <ProjectGuid>{50E3303D-6102-4EB5-834C-0FBAA0B9AE3A}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>CS7NewFeatures</RootNamespace>
-    <AssemblyName>CS7NewFeatures</AssemblyName>
+    <RootNamespace>OutSample001</RootNamespace>
+    <AssemblyName>OutSample001</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
